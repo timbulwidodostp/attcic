@@ -1,4 +1,16 @@
-D 'cixr': calculates the concentration index (CIX) and can handle grouped data or microdata Use cixr With STATA 19
+D 'attcic': CiC attrition corrections for continuous and binary outcomes proposed in Ghanem et al. (2024b) Use attcic With STATA 19
 D
-F cixr.ado
-F cixr.sthlp
+F _eststo.ado
+F _eststo.hlp
+F attcic.ado
+F attcic.sthlp
+F estadd.ado
+F estadd.hlp
+F estout.ado
+F estout.hlp
+F estpost.ado
+F estpost.hlp
+F eststo.ado
+F eststo.hlp
+F esttab.ado
+F esttab.hlp
