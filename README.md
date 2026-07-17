@@ -1,0 +1,2 @@
+# attcic
+CiC attrition corrections for continuous and binary outcomes proposed in Ghanem et al. (2024b) Use attcic With STATA 19
